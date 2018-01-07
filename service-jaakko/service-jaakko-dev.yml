@@ -2,5 +2,5 @@ com:
   jcokee:
      config:
         springcloud:
-          fistconfig: service-jaakko-dev1
+          fistconfig: service-jaakko-dev-test
           second: service-jaakko-dev2
