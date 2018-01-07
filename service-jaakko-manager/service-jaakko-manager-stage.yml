@@ -2,5 +2,5 @@ com:
   jcokee:
      config:
         springcloud:
-          fistconfig: manager-stage1
+          firstconfig: manager-stage1
           second: manager-stage2

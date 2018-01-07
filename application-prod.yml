@@ -1,6 +1,6 @@
-com:
+server:
   jcokee:
      config:
         springcloud:
-          fistconfig: learning-springcloud-prod
+          firstconfig: learning-springcloud-prod
           second: secondok-prod
