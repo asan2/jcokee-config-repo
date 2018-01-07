@@ -1,0 +1,6 @@
+com:
+  jcokee:
+     config:
+        springcloud:
+          fistconfig: service-dev1
+          second: service-dev2

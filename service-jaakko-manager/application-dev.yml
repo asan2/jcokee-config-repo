@@ -1,0 +1,6 @@
+com:
+  jcokee:
+     config:
+        springcloud:
+          fistconfig: manager-dev1
+          second: manager-dev2
