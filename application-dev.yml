@@ -1,6 +1,5 @@
 server:
   jcokee:
-     config:
-        springcloud:
-          firstconfig: learning-springcloud-dev
-          second: secondok-dev
+     springcloud:
+        firstconfig: learning-springcloud-dev
+        second: secondok-dev

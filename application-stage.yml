@@ -1,6 +1,5 @@
 server:
   jcokee:
-     config:
-        springcloud:
-          firstconfig: learning-springcloud-stage
-          second: secondok-stage
+     springcloud:
+        firstconfig: learning-springcloud-stage
+        second: secondok-stage
