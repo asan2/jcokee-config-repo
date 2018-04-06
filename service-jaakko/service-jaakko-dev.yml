@@ -3,4 +3,4 @@ com:
      config:
         springcloud:
           firstconfig: service-jaakko-dev-test666
-          second: service-jaakko-dev2
+          secondconfig: service-jaakko-dev2
