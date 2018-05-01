@@ -3,7 +3,7 @@ com:
     server:
       datasource:
         driver: com.mysql.jdbc.Driver
-        url: jdbc:mysql://127.0.0.1:3306/jcokee?serverTimezone=GMT%2b8&useSSL=false&Unicode=true&characterEncoding=utf8&autoReconnectForPools=true&allowMultiQueries=true
+        url: jdbc:mysql://127.0.0.1:3306/jcott?serverTimezone=GMT%2b8&useSSL=false&Unicode=true&characterEncoding=utf8&autoReconnectForPools=true&allowMultiQueries=true
         user: jaakko
         password: 123456
         mapperLocations: classpath:mybatis/*.xml
