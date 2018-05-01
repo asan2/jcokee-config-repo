@@ -1,6 +1,26 @@
 com:
   jcokee:
-     config:
+    server:
+      datasource:
+        driver: com.mysql.jdbc.Driver
+        url: jdbc:mysql://127.0.0.1:3306/jcokee?serverTimezone=GMT%2b8&useSSL=false&Unicode=true&characterEncoding=utf8&autoReconnectForPools=true&allowMultiQueries=true
+        user: jaakko
+        password: 123456
+        mapperLocations: classpath:mybatis/*.xml
+        timeBetweenEvictionRunsMillis: 60000
+        pool:
+          minIdle: 5
+          maxIdle: 50
+          maxActive: 100
+          initialSize: 5
+          testOnIdle: true
+          testOnReturn: true
+          testOnBorrow: false
+          removeAbandoned: true
+          removeAbandonedTimeout: 1800
+          validationQuery: SELECT 1 FROM DUAL
+          minEvictableIdleTimeMillis: 30000
+      config:
         springcloud:
           firstconfig: service-stage1
           second: service-stage2

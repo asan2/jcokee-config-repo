@@ -1,6 +1,0 @@
-com:
-  jcokee:
-     config:
-        springcloud:
-          firstconfig: manager-prod1
-          second: manager-prod2
