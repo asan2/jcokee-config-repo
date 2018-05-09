@@ -22,5 +22,5 @@ com:
           minEvictableIdleTimeMillis: 30000
       config:
         springcloud:
-          firstconfig: service-jaakko-dev-test888
+          firstconfig: service-jaakko-dev-test886
           secondconfig: service-jaakko-dev222
