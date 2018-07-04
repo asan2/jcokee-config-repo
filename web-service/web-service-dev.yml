@@ -24,3 +24,10 @@ com:
         springcloud:
           firstconfig: service-jaakko-dev-test86
           secondconfig: service-jaakko-dev222
+          highmap:
+            60170: 眼部护理
+            60194: 沐浴清洁
+            60200: 护发产品
+            60212: 护肤工具
+            170125: 头皮护理
+            230024: 脸部彩妆
