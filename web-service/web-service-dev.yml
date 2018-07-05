@@ -31,3 +31,7 @@ com:
             60212: 护肤工具
             170125: 头皮护理
             230024: 脸部彩妆
+          highList:
+            - 60170,'眼部护理','http://www.sepohra.cn/images/xxx1/jpg'
+            - 60194,'沐浴清洁','http://www.sepohra.cn/images/xxx2/jpg'
+            - 60200,'护发产品','http://www.sepohra.cn/images/xxx3/jpg'
