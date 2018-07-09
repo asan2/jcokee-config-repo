@@ -47,3 +47,12 @@ com:
             60170: http://www.sepohra.cn/images/xxx1/jpg
             60194: http://www.sepohra.cn/images/xxx2/jpg
             60200: http://www.sepohra.cn/images/xxx3/jpg
+          rightmap:
+            60170:
+              - 123
+              - 456
+              - 678
+            60200:
+              - 1234
+              - 4567
+              - 5678
