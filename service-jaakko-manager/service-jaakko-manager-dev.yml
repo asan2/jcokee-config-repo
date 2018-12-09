@@ -4,3 +4,4 @@ com:
         springcloud:
           firstconfig: manager-dev1
           second: manager-dev2
+          temp: test1
